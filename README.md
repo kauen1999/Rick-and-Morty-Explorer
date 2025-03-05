@@ -21,7 +21,7 @@ Este projeto foi desenvolvido para explorar os dados da API de Rick and Morty, f
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/kauen1999/Rick-and-Morty-Explorer.git
    cd nome-do-repositorio
    ```
 
