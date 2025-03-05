@@ -7,7 +7,6 @@ Este projeto foi desenvolvido para explorar os dados da API de Rick and Morty, f
 - **Vite** (@latest)
 - **React**
 - **Tailwind CSS**
-- **Axios**
 - **React Router Dom**
 
 ## Funcionalidades
