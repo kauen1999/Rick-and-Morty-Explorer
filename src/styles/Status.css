@@ -1,0 +1,15 @@
+.Alive{
+    border-color: rgb(85, 204, 68);
+    margin: 0;
+    background: rgb(85, 204, 68);
+}
+.Dead{
+    border-color: rgb(214, 61, 46);
+    margin: 0;
+    background: rgb(214, 61, 46);
+}
+.unknown{
+    border-color: rgb(158, 158, 158);
+    margin: 0;
+    background: rgb(158, 158, 158);
+}
